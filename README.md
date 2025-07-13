@@ -1,16 +1,8 @@
-# to_do_list_app
+# To Do List
 
-A new Flutter project.
+This is a to do list app made by me following Mitch Koko's beginner course. 
 
-## Getting Started
+## Purpose
 
-This project is a starting point for a Flutter application.
+The purpose of this app is for me to learn the basics of Flutter and Dart.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
